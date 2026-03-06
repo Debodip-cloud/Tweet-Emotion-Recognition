@@ -1,5 +1,5 @@
-##Tweet Emotion Recognition using NLP and TensorFlow
-#Overview
+## Tweet Emotion Recognition using NLP and TensorFlow
+# Overview
 
 Understanding emotions in text is an important problem in Natural Language Processing (NLP). In this project, I built a machine learning model that can detect emotions expressed in tweets.
 
@@ -7,7 +7,7 @@ The goal of the project is to classify tweets into different emotional categorie
 
 This project demonstrates the full NLP pipeline, including data preprocessing, tokenization, model training, evaluation, and prediction.
 
-#Dataset
+# Dataset
 
 The dataset used in this project is the Emotion Dataset created by the DAIR AI research group.
 
@@ -29,7 +29,7 @@ Surprise
 
 The dataset is loaded using the Hugging Face datasets library.
 
-#Project Workflow
+# Project Workflow
 
 The project follows a typical NLP machine learning pipeline:
 
@@ -110,7 +110,7 @@ Visualization of training history
 
 This helps determine how well the model generalizes to unseen tweets.
 
-#Technologies Used
+# Technologies Used
 
 Python
 
@@ -136,7 +136,7 @@ Joy
 
 The model analyzes the words and context of the tweet to identify the most likely emotion.
 
-#How to Run the Project
+# How to Run the Project
 1. Clone the repository
 git clone https://github.com/yourusername/tweet-emotion-recognition.git
 cd tweet-emotion-recognition
@@ -178,7 +178,7 @@ Deploying the model as an API or web application
 
 Using larger datasets for training
 
-##Author
+# Author
 
 Debodip Chowdhury
 
